@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './row.module.css';
 
-import Col from '../Col/Col';
+import Col from '../Col';
 
 const Row = ({ children }) => {
 
